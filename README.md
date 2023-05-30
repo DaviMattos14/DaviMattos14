@@ -1,3 +1,5 @@
+<img width="200" height="200" src="https://media.tenor.com/mhLPO2VldCkAAAAM/0001.gif" align=right>
+
 ## Prazer, Me Chamo Davi "Dilam" Mattos 👋
 
   - 🎓 Atualmente cursando Bacharelado em Ciências Matemáticas e da Terra - UFRJ
@@ -31,4 +33,6 @@
   <a href="https://twitter.com/D1lam" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
   
 </div>
+
+<img width="400" height="200" src="https://media.tenor.com/kGcYEHb08sAAAAAC/netero-hunter-x-hunter.gif" align=center>
 
