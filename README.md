@@ -11,14 +11,13 @@
 
 ## 💻Linguagens de Programalção conhecidas e em estudo
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="Csharp" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-  <img align="center" alt="C" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="center" alt="Cpp" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="R" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg">
-  <img align="center" alt="Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-</div>
+
+<img align="center" alt="Python" height="50" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> &nbsp;
+<img align="center" alt="Csharp" height="50" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"> &nbsp;
+<img align="center" alt="C" height="50" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"> &nbsp;
+<img align="center" alt="Cpp" height="50" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"> &nbsp;
+<img align="center" alt="R" height="50" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg"> &nbsp;
+<img align="center" alt="Java" height="50" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
 
 
 ## 📫 Onde me encontrar
