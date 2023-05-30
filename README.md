@@ -1,18 +1,15 @@
-### Prazer, Me Chamo Davi "Dilam" Mattos 👋
-#
+## Prazer, Me Chamo Davi "Dilam" Mattos 👋
 
   - 🎓 Atualmente cursando Bacharelado em Ciências Matemáticas e da Terra - UFRJ
   - 📊´Atualmente atuando voluntariarmente como Head Coach e Analista da equipe de esports @MinervaeSports
 
-#
 
-### 👨‍🎓 Formações 
+## 👨‍🎓 Formações 
   - Ensino Médio com Técnico em Informática
   - Técnico em Montagem e Manutenção de Computadores
   - Técnico em Redes e Infrastrutura 
 
-#
-### 💻&nbsp; Linguagens de Programalção conhecidas e em estudo
+## 💻Linguagens de Programalção conhecidas e em estudo
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
@@ -23,9 +20,8 @@
   <img align="center" alt="Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
 </div>
 
-#
 
-### 📫 Onde me encontrar
+## 📫 Onde me encontrar
 
 <div> 
   
