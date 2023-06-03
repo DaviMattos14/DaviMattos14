@@ -3,7 +3,8 @@
 ## Prazer, Me Chamo Davi "Dilam" Mattos 👋
 
   - 🎓 Atualmente cursando Bacharelado em Ciências Matemáticas e da Terra - UFRJ
-  - 📊´Atualmente atuando voluntariarmente como Head Coach e Analista da equipe de esports @MinervaeSports
+  - 📊 Atualmente atuando voluntariarmente como Head Coach e Analista da equipe de esports [Minerva Esports UFRJ](https://www.instagram.com/minervaesports/)
+  - 🔎 Em Busca do primeiro emprego / estágio
 
 
 ## 👨‍🎓 Formações 
@@ -33,11 +34,11 @@
 <img align="left" alt="Notion" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
 <img align="center" alt="LaTeX" src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white">
 
-<img align="center" alt="LibreOffice" src="https://img.shields.io/badge/LibreOffice-18A303?style=for-the-badge&logo=LibreOffice&logoColor=white">
+<img align="left" alt="LibreOffice" src="https://img.shields.io/badge/LibreOffice-18A303?style=for-the-badge&logo=LibreOffice&logoColor=white">
 <img align="left" alt="Word" src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white">
-<img align="left" alt="PowerPoint" src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white">
+<img align="center" alt="PowerPoint" src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white">
 <img align="left" alt="Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
-<img align="center" alt="Google_Sheets" src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white"> &nbsp;
+<img align="left" alt="Google_Sheets" src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white"> &nbsp;
 
 ## 📫 Onde me encontrar
 
