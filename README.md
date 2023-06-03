@@ -11,6 +11,8 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviMattos14&hide_progress=true&theme=codeSTACKr" width="300" align="top">
 
 
+
+
 ## 👨‍🎓 Formações 
   - Ensino Médio com Técnico em Informática
   - Técnico em Montagem e Manutenção de Computadores
@@ -52,10 +54,14 @@
   <a href="https://www.linkedin.com/in/davismattos14/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://discord.gg/UVhj6Gv" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:contato.davimattos14@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
-  <a href="https://twitter.com/D1lam" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
-  
+  <a href="https://twitter.com/D1lam" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 </div>
 
-<img width="400" height="200" src="https://media.tenor.com/kGcYEHb08sAAAAAC/netero-hunter-x-hunter.gif">
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12156916639&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=12156916639&redirect=true)
+
+&nbsp; <div align="center">
+  <img width="400" height="200" src="https://media.tenor.com/kGcYEHb08sAAAAAC/netero-hunter-x-hunter.gif">
+</div>
+
 
 
