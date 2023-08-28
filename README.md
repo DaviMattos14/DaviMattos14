@@ -2,7 +2,7 @@
 
 ## Prazer, Me Chamo Davi "Dilam" Mattos 👋
 
-  - 🎓 Atualmente cursando Bacharelado em Ciências Matemáticas e da Terra - UFRJ
+  - 🎓 Atualmente cursando Bacharelado em Ciência da Computação - UFRJ
   - 📊 Atualmente atuando voluntariarmente como Head Coach e Analista da equipe de esports [Minerva Esports UFRJ](https://www.instagram.com/minervaesports/)
   - 🔎 Em Busca do primeiro emprego / estágio
 
