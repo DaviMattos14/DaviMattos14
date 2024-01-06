@@ -26,7 +26,7 @@
 <img align="center" alt="C" height="50" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"> &nbsp;
 <img align="center" alt="Cpp" height="50" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"> &nbsp;
 <img align="center" alt="R" height="50" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg"> &nbsp;
-<img align="center" alt="Java" height="50" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+<!--img align="center" alt="Java" height="50" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"-->
 
 ## 🧠 Conhecimentos
 
