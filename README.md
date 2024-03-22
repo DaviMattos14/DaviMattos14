@@ -3,7 +3,7 @@
 ## Prazer, Me Chamo Davi "Dilam" Mattos 👋
 
   - 🎓 Atualmente cursando Bacharelado em Ciência da Computação - UFRJ
-  - 📊 Atualmente atuando voluntariarmente como Head Coach e Analista da equipe de esports [Minerva Esports UFRJ](https://www.instagram.com/minervaesports/)
+  - 📊 Atuei voluntariarmente como Head Coach e Analista da equipe de esports [Minerva Esports UFRJ](https://www.instagram.com/minervaesports/)
   - 🔎 Em Busca do primeiro emprego / estágio
 
 
@@ -26,7 +26,7 @@
 <img align="center" alt="C" height="50" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"> &nbsp;
 <img align="center" alt="Cpp" height="50" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"> &nbsp;
 <img align="center" alt="R" height="50" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg"> &nbsp;
-<!--img align="center" alt="Java" height="50" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"-->
+<img align="center" alt="Java" height="50" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
 
 ## 🧠 Conhecimentos
 
