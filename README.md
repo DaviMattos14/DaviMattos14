@@ -7,8 +7,8 @@
   - 🔎 Em Busca do primeiro emprego / estágio
 
 
-[![Davi Mattos GitHub stats](https://github-readme-stats.vercel.app/api?username=DaviMattos14&show_icons=true&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviMattos14&hide_progress=false&theme=codeSTACKr" width="300" align="top">
+[![Davi Mattos's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaviMattos14&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviMattos14&hide_progress=false&theme=synthwave" width="300" align="top">
 
 
 
