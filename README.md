@@ -7,8 +7,9 @@
   - 🔎 Em Busca do primeiro emprego / estágio
 
 
-[![Davi Mattos's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaviMattos14&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviMattos14&hide_progress=false&theme=synthwave" width="300" align="top">
+[![Davi Mattos's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaviMattos14&show_icons=true&theme=gruvbox&locale=pt-br&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)&nbsp;
+![Davi Mattos Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaviMattos14&layout=compact&theme=gruvbox&locale=pt-br&langs_count=14&hide=javascript,html&hide_progress=true)&nbsp;
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DaviMattos14&repo=Trabalho-1-de-IntroCCpp-2020-1---Campo-Minado&theme=gruvbox&locale=pt-br&show_owner=true)](https://github.com/DaviMattos14/Trabalho-1-de-IntroCCpp-2020-1---Campo-Minado)
 
 
 
